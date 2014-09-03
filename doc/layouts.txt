@@ -1,0 +1,35 @@
+Main grid of an original packman
+X=Normal pill
+P=Power up pill
+x=Travelable space
+-=Walls
+
+XXXXXXXXXXXX--XXXXXXXXXXXX
+X----X-----X--X-----X----X
+P----X-----X--X-----X----P
+X----X-----X--X-----X----X
+XXXXXXXXXXXXXXXXXXXXXXXXXX
+X----X--X--------X--X----X
+X----X--X--------X--X----X
+XXXXXX--XXXX--XXXX--XXXXXX
+-----X-----x--x-----X-----
+-----X-----x--x-----X-----
+-----X--xxxx--xxxx--X-----
+-----X--x--------x--X-----
+-----X--x--------x--X-----
+xxxxxXxxx--------xxxXxxxxx
+-----X--x--------x--X-----
+-----X--x--------x--X-----
+-----X--xxxxxxxxxxxxX-----
+-----X--x--------x--X-----
+-----X--x--------x--X-----
+XXXXXXXXXXXX--XXXXXXXXXXXX
+X----X-----X--X-----X----X
+X----X-----X--X-----X----X
+PXX--XXXXXXX--XXXXXXX--XXP
+--X--X--X--------X--X--X--
+--X--X--X--------X--X--X--
+XXXXXX--XXXX--XXXX--XXXXXX
+X----------X--X----------X
+X----------X--X----------X
+XXXXXXXXXXXXXXXXXXXXXXXXXX
